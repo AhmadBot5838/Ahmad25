@@ -8,7 +8,7 @@
 * ARIS187 ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾GUSTIAN BOT👾'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = '📱GUSTIAN📱'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://www.instagram.com/ahmad_gustian_adi_nugraha/'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6282137409151'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
